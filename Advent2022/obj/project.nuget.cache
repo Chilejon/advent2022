@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtsbZr8XB9kffbI3sMSHGLSa50IoRIrdYRRfBc7EVk51i9gvlo2T2g69cGhR2Vzsv/TO2ZEq+qdG7c0vapiYpg==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Advent2022\\Advent2022\\Advent2022.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://scndevtools.stockport.gov.uk:1980/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
